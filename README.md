@@ -1,5 +1,3 @@
-# Final Project for "Deep Learning and AI Ethics" course @ Belmont F21
+An exploration into audio effect modeling with Deep Learning using the [microtcn](https://github.com/csteinmetz1/micro-tcn) model from Christian Steinmetz. The model was trained on synthetic data for compression, reverb, and distortion generated using [Pedalboard](https://github.com/spotify/pedalboard) and the [SignalTrain dataset](https://zenodo.org/records/3824876)
 
-Models and data were not uploaded because of Github storage limits (I also had issues with commiting a repo with large files in it so decided just to upload everything besides the models & data.
-I can send models and training data to you if interested, shoot me an email. jacob.stallings@pop.belmont.edu
-
+This was my final project for the Dr. Scott Hawley's Deep Learning and AI Ethics course at Belmont University (Fall '21)
